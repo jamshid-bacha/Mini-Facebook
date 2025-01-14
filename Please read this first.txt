@@ -1,18 +1,14 @@
 
-1) assignmentfour is the database
-2) index.php is the main file
-
 Project Flow
-Maam Please Watch the video FIRST 
-Thank you :)
-1) user will register him/her self
-2) during registeration if any field empty javascript code will alert that please input 
-somethig in that specefic field and JS code will focus on that field.
-3) if password is less then 8 character JS code will alert
-4) if password not match JS code will alert
-5) if personID is already taken then message will display
-6) if email is already taken then message will display 
-7) if everything is fine then Message will display that Now you can login register successfully
-8) if email and password not match during logIn message will appear that email or password 
-is incurrect
-9) if login user image will dispaly and options (send message, inbox, outbox and logout)
+
+1) The user will register him/herself
+2) during registration if any field is empty JavaScript code will alert that please input 
+something in that specific field and JS code will focus on that field.
+3) If the password is less than 8 characters, the JS code will alert
+4) If the password does not match the JS code will alert
+5) If personID is already taken then the message will display
+6) If the email is already taken then the message will display 
+7) If everything is fine then the message will display that now you can log in and register successfully
+8) If the email and password do not match during login message will appear that the email or password 
+is incorrect
+9) If user login then the image will display options (send message, inbox, outbox, and logout)
